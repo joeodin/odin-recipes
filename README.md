@@ -1,5 +1,3 @@
 # odin-recipes
 
-where did everything go
-hello
-hellohehlehlehlehlehlehlehlehl
+this is a project
